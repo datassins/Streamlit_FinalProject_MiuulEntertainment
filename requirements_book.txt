@@ -1,0 +1,6 @@
+streamlit==1.37.0
+beautifulsoup4
+folium
+scikit-learn>=1.0
+streamlit_folium
+requests

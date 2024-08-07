@@ -1,0 +1,8 @@
+beautifulsoup4
+lxml
+requests
+streamlit
+scikit-learn
+numpy
+pandas
+xgboost
